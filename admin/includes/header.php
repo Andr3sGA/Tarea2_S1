@@ -54,11 +54,6 @@ if (empty($_SESSION['id'])) {
                     <i class="fas fa-tag"></i>
                     <span>Categorias</span></a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="productos.php">
-                    <i class="fas fa-list"></i>
-                    <span>Productos</span></a>
-            </li>
 
             <!-- Divider -->
             <hr class="sidebar-divider d-none d-md-block">
