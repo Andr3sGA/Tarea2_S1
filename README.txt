@@ -1,7 +1,7 @@
 Creedenciales de acceso:
 
-Usuario: 
-aBell
+Link: http://localhost/tarea2_s1/admin/
 
-Contraseña: 
-admin
+Usuario: aBell
+
+Contraseña: admin
